@@ -1,5 +1,6 @@
-本仓储从下面的仓储fork而来，感谢原作者
-来自https://github.com/AItsuki/SwipeMenuRecyclerView
+本仓储从下面的仓储fork而来，用于存档和日后参考，感谢原作者AItsuki
+
+https://github.com/AItsuki/SwipeMenuRecyclerView
 
 # SwipeMenuRecyclerView
 ![](http://upload-images.jianshu.io/upload_images/2202079-68f9a97838a05c53.gif?imageMogr2/auto-orient/strip)
