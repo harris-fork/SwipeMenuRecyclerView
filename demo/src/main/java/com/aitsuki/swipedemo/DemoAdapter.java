@@ -12,7 +12,7 @@ import com.aitsuki.swipedemo.entity.Type;
 import java.util.List;
 
 /**
- * Created by hc_zhang on 2017/9/22.
+ * Created by harriszhang@live.cn on 2017/9/22.
  */
 public class DemoAdapter extends RecyclerView.Adapter<SimpleViewHolder> {
 
