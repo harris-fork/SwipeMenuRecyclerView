@@ -7,7 +7,7 @@ import android.widget.TextView;
 import com.aitsuki.swipe.SwipeItemLayout;
 
 /**
- * Created by hc_zhang on 2017/9/22.
+ * Created by harriszhang@live.cn on 2017/9/22.
  */
 
 public class SimpleViewHolder extends RecyclerView.ViewHolder {
